@@ -1,1 +1,11 @@
-
+{
+ "test_case": {
+  "price": 10,
+  "items": [
+   {"name":"NFT Cat","chance":50},
+   {"name":"NFT Dog","chance":30},
+   {"name":"NFT Demon","chance":15},
+   {"name":"NFT Devil","chance":5}
+  ]
+ }
+}
